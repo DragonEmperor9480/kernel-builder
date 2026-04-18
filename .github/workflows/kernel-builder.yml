@@ -3,7 +3,7 @@ name: Kernel Builder for Xiaomi Pad 6.
 on:
   push:
     branches:
-      - main
+      - pipa-n0
   workflow_dispatch:
     inputs:
       kernel_branch:
